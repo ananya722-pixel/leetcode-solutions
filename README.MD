@@ -8,11 +8,12 @@ This repository contains my solutions to LeetCode problems. The goal is to stren
 
 ## Problems Solved
 
-| #   | Problem          | Difficulty | Solution |
-| --- | ---------------- | ---------- | -------- |
-| 1   | Two Sum          | Easy       | Python   |
-| 242 | Valid Anagram    | Easy       | Python   |
-| 125 | Valid Palindrome | Easy       | Python   |
+| #   | Problem           | Difficulty | Solution |
+| --- | ----------------  | ---------- | -------- |
+| 1   | Two Sum           | Easy       | Python   |
+| 242 | Valid Anagram     | Easy       | Python   |
+| 125 | Valid Palindrome  | Easy       | Python   |
+| 217 | Contains Duplicate| Easy       | Python   |
 
 ## Topics Covered
 
@@ -23,10 +24,10 @@ This repository contains my solutions to LeetCode problems. The goal is to stren
 
 ## Progress
 
-* Easy: 3
-* Medium: 0
+* Easy: 4
+* Medium: 0 
 * Hard: 0
-* Total Solved: 3
+* Total Solved: 4
 
 ## Problem-Solving Template
 
