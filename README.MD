@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to LeetCode problems along with explanations, approaches, and complexity analysis. The goal is to strengthen my problem-solving skills, data structures, and algorithms knowledge while preparing for coding interviews.
+This repository contains my solutions to LeetCode problems. The goal is to strengthen my problem-solving skills, data structures, and algorithms knowledge while preparing for coding interviews.
 
 ## Languages
 
