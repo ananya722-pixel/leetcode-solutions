@@ -8,12 +8,13 @@ This repository contains my solutions to LeetCode problems. The goal is to stren
 
 ## Problems Solved
 
-| #   | Problem           | Difficulty | Solution |
-| --- | ----------------  | ---------- | -------- |
-| 1   | Two Sum           | Easy       | Python   |
-| 242 | Valid Anagram     | Easy       | Python   |
-| 125 | Valid Palindrome  | Easy       | Python   |
-| 217 | Contains Duplicate| Easy       | Python   |
+| #   | Problem                   | Difficulty | Solution |
+| --- | --------------------------| ---------- | -------- |
+| 1   | Two Sum                   | Easy       | Python   |
+| 242 | Valid Anagram             | Easy       | Python   |
+| 125 | Valid Palindrome          | Easy       | Python   |
+| 217 | Contains Duplicate        | Easy       | Python   |
+| 1480| Running Sum of 1D Array   | Easy       | Python   |
 
 ## Topics Covered
 
@@ -24,10 +25,10 @@ This repository contains my solutions to LeetCode problems. The goal is to stren
 
 ## Progress
 
-* Easy: 4
+* Easy: 5
 * Medium: 0 
 * Hard: 0
-* Total Solved: 4
+* Total Solved: 5
 
 ## Problem-Solving Template
 
